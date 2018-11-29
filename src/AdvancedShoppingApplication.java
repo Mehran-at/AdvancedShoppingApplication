@@ -1,3 +1,16 @@
+// Derek is checking his fridge thinking about what to buy at the grocery store. He decides to write down a shopping list.
+// . Create the AdvancedShoppingApplication class and write the following instructions in its main method:
+// . Create the Grocery class that has one name.
+// . Create an empty groceries list of Grocery and display it.
+// . Create three different Grocery objects.
+// . Add them to the groceries list and display it. To display the Grocery class create the toString method.
+// . Create a new Grocery with the same name as a previous one and use it to remove the original one from the list. To remove a Grocery automatically you need to create the equals method in the Grocery class. Specify that two Grocery are the same if their name is the same. 
+// . Add one of the existing groceries twice and display the list.
+// . Remove the third element of the list by providing its position and display it.
+// . Display its size.
+//    Hints:
+//  > Use Intellij shortcuts to create the toString and equals methods.
+
 import java.util.ArrayList;
 import java.util.List;
 
